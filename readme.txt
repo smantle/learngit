@@ -6,4 +6,4 @@ v3
 v4
 ssh
 dev branch
-conflicts in dev and master branch
+conflicts in dev &&(and) master branch
