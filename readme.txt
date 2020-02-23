@@ -7,4 +7,4 @@ v4
 ssh
 dev branch
 conflicts in dev &&(and) master branch
---no-ff merge
+--no-ff merge 修复bug
